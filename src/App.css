@@ -1,0 +1,25 @@
+.main-heading {
+  text-align: center;
+  margin: 20px;
+}
+.btn-container {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.btn-style {
+  border-width: 0px;
+  border: none;
+  color: grey;
+  margin-right: 20px;
+  background-color: transparent;
+}
+.forcolor {
+  color: red;
+  border-width: 0px;
+  border: none;
+  background-color: transparent;
+  text-decoration: underline;
+}
